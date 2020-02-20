@@ -1,0 +1,4 @@
+Time For Run 1: 0.0174 seconds
+Time For Run 2: 0.016851 seconds
+Time For Run 3: 0.016673 seconds
+Average Time For Bubble Sort DSC: 0.01697467 seconds
